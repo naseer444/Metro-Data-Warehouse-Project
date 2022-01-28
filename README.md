@@ -13,7 +13,7 @@ This project is a complete pipeline of understanding the flow of data warehousin
    Import the following
 	+ commons-collections4-4.4.jar 
 	+ mysql-connector-java-5.1.49.jar
-	+ ojdbc6.jar
+	+ ojdbc6.jar 
 libraries in the Project and then run. I have attached the above libraries in a folder named "libraries".
 
 4. To run on your MySQL workbench, change the root name and password to your's name and password accordingly    in DBHandler.java file.
